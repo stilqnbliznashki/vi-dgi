@@ -1,12 +1,12 @@
 [
   {
-    "title": "Math Basics",
-    "startDate": "20-32-1111."
-    "endDate": "10-20-3122"
+    "name": "JavaScript Fundamentals",
+    "date": "2025-10-15",
+    "end_date": "2025-11-01"
   },
   {
-    "title": "sience Basics",
-    "startDate": "2210-32-23."
-    "endDate": "1021-20-54"
-  },
+    "name": "Responsive Design",
+    "date": "2025-10-22",
+    "end_date": "2025-11-01"
+  }
 ]
