@@ -2,36 +2,13 @@
   {
     "name": "JavaScript Fundamentals",
     "date": "2025-10-15",
-    "end_date": "2025-11-01"
+    "end_date": "2025-11-01",
+    "link": "ohrana"
   },
   {
     "name": "Responsive Design",
     "date": "2025-10-22",
-    "end_date": "2025-11-01"
-  },
-  {
-    "name": "Responsive Design",
-    "date": "2025-10-22",
-    "end_date": "2025as11-01"
-  },
-  {
-    "name": "Responsive Design",
-    "date": "2025-10-22",
-    "end_date": "2025-11-01"
-  },
-  {
-    "name": "Responsive Design",
-    "date": "2025-10-22",
-    "end_date": "2025-11-01"
-  },
-  {
-    "name": "Responsive Design",
-    "date": "2025-10-22",
-    "end_date": "2025-11-01"
-  },
-  {
-    "name": "Responsive Design",
-    "date": "2025-10-22",
-    "end_date": "2025-11-01"
+    "end_date": "2025-11-01",
+    "link": "ohrana"
   }
 ]
